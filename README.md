@@ -222,4 +222,4 @@ scikit-learn
 
 ## Author
 
-[Your Name] — connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+Nick Knowles — connect with me on Linkedin
